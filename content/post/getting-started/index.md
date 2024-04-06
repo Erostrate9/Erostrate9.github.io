@@ -30,15 +30,16 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  - Yuxuan Sun
 
 tags:
-  - Academic
-  - 开源
+  - Software Engineering
+  - Deep Learning
+  - So
 
 categories:
-  - Demo
-  - 教程
+  - projects
+  - blog
 ---
 
 ```python

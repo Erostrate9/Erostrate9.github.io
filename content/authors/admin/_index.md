@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's student Software Engineer
+role: Master's student & Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,22 +49,27 @@ skills:
   - name: Technical
     items:
       - name: Java
-        description: ''
+        description: 'Spring Boot'
         percent: 90
         icon: java
         icon_pack: fab
+      - name: SQL
+        description: 'MySQL, Redis'
+        percent: 90
+        icon: database
+        icon_pack: fas
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: SQL
-        description: ''
-        percent: 90
-        icon: database
-        icon_pack: fas
+      - name: JavaScript
+        description: 'ES6'
+        percent: 70
+        icon: javascript
+        icon_pack: fab
       - name: Software Engineering
-        description: ''
+        description: 'Agile, Lean software development, Domain-driven design'
         percent: 90
         icon: chart-line
         icon_pack: fas
@@ -73,20 +78,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Movie
+        description: ''
+        percent: 100
+        icon: video-camera
+        icon_pack: fas
+      - name: Dogs
+        description: ''
+        percent: 80
+        icon: dog
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 60
         icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
         icon_pack: fas
 
 # Social/Academic Networking
@@ -123,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuxuan (Eric) Sun is a Master's student majoring in computer science at [University of Ottawa](https://service.scs.carleton.ca/ocics/timetable "OCICS"). He's a full-stack software engineer proficient in Java, Spring Boot, MySQL and React. He has one year of backend development work experience in China. His research interests include Software Engineering and Applied AI. 
 {style="text-align: justify;"}

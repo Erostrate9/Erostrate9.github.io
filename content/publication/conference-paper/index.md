@@ -6,7 +6,8 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Linxu Guo
+  - Teik-Toe Teoh
 
 # Author notes (optional)
 author_notes:
@@ -17,7 +18,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-01-12T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +26,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *2023 15th International Conference on Computer Research and Development (ICCRD)*
+publication_short: In *ICCRD*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pneumonia has been a tough and dangerous human illness for a history-long time, notably since the COVID-19 pandemic outbreak. Many pathogens, including bacteria or viruses like COVID-19, can cause pneumonia, leading to inflammation in patients' alveoli. A corresponding symptom is the appearance of lung opacities, which are vague white clouds in the lungs' darkness in chest radiographs. Modern medicine has indicated that pneumonia-associated opacities are distinguishable and can be seen as fine-grained labels, which make it possible to use deep learning to classify chest radiographs as a supplementary aid for disease diagnosis and performing pre-screening. However, deep learning-based medical imaging solutions, including convolutional neural networks, often encounter a performance bottleneck when encountering a new disease due to the dataset's limited size or class imbalance. This study proposes a deep learning-based approach using transfer learning and weighted loss to overcome this problem. The contributions of it are three-fold. First, we propose an image classification model based on pre-trained Densely Connected Convolutional Networks using Weighted Cross Entropy. Second, we test the effect of masking non-lung regions on the classification performance of chest radiographs. Finally, we summarize a generic practical paradigm for medical image classification based on transfer learning. Using our method, we demonstrate that pre-training on the COVID-19 dataset effectively improves the model's performance on the non-COVID Pneumonia dataset. Overall, the proposed model achieves excellent performance with 95.75% testing accuracy on a multiclass classification for the COVID-19 dataset and 98.29% on a binary classification for the Pneumonia dataset.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A transfer learning method for Chest Radiograph image classification.
 
 tags: []
 
@@ -44,18 +45,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/Erostrate9/TLM-for-COVID-and-Pneumonia-Diagnosis'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://ieeexplore.ieee.org/document/10080197'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'High-level architecture'
   focal_point: ''
   preview_only: false
 
