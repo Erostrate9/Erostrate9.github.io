@@ -68,10 +68,20 @@ skills:
         percent: 70
         icon: javascript
         icon_pack: fab
+      - name: Android Development
+        description: 'Android SDK, Kotlin, Java'
+        percent: 60
+        icon: andriod
+        icon_pack: fas
+      - name: Deep Learning
+        description: 'NLP, PyTorch, Numpy'
+        percent: 70
+        icon: pytorch
+        icon_pack: fas
       - name: Software Engineering
         description: 'Agile, Lean software development, Domain-driven design'
         percent: 90
-        icon: chart-line
+        icon: git
         icon_pack: fas
 
   - name: Hobbies
