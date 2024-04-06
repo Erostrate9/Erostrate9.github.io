@@ -70,13 +70,12 @@ sections:
           date_start: '2023-07-11'
           date_end: '2024-01-04'
           description: |2-
-          Software Engineer (Java Backend) at CMB Network Technology, Hangzhou.
-
-          * Built RESTful APIs of Web management system boosting asset custody business, using Java, Spring Boot and MySQL, with experience in Agile and Lean development.
-          * Refactored authentication and authorization modules of a legacy system at CMB. Transformed the Redis-based distributed session management into Token-Based Authentication, improving system robustness and significantly reducing memory resource utilization.
-          * Developed robust statistical analysis service for report data as a full-stack developer at CMB with Java and React.js, saving 60% work time for business analysts processing report data.
-          * Optimized MySQL, Impala and Hive database queries, resulting in 30% faster page loads.
-          * Participated in software maintenance and DevOps, provided technical support for bank employees, and troubleshot system bugs.
+            Software Engineer (Java Backend) at CMB Network Technology, Hangzhou.
+            * Built RESTful APIs of Web management system boosting asset custody business, using Java, Spring Boot and MySQL, with experience in Agile and Lean development.
+            * Refactored authentication and authorization modules of a legacy system at CMB. Transformed the Redis-based distributed session management into Token-Based Authentication, improving system robustness and significantly reducing memory resource utilization.
+            * Developed robust statistical analysis service for report data as a full-stack developer at CMB with Java and React.js, saving 60% work time for business analysts processing report data.
+            * Optimized MySQL, Impala and Hive database queries, resulting in 30% faster page loads.
+            * Participated in software maintenance and DevOps, provided technical support for bank employees, and troubleshot system bugs.
         - title: Software Development Intern
           company: Inspur Group ()
           company_url: 'https://www.inspurusainc.com/'
@@ -85,11 +84,10 @@ sections:
           date_start: '2022-08'
           date_end: '2023-02'
           description: |2-
-          Software Research & Development Intern at Inspur Academy of Science and Technology:
-
-          * Built Web App for IoT system using Java and Vue.js.
-          * Researched deep learning and published a paper at the IEEE conference, ICCRD 2023. (DOI: 10.1109/ICCRD56364.2023.10080197)
-          * Contributed to the drafting and refinement of forms essential for patent applications, demonstrating proficiency in academic writing and attention to detail.
+            Software Research & Development Intern at Inspur Academy of Science and Technology:
+            * Built Web App for IoT system using Java and Vue.js.
+            * Researched deep learning and published a paper at the IEEE conference, ICCRD 2023. (DOI: 10.1109/ICCRD56364.2023.10080197)
+            * Contributed to the drafting and refinement of forms essential for patent applications, demonstrating proficiency in academic writing and attention to detail.
     design:
       columns: '2'
   # - block: accomplishments
