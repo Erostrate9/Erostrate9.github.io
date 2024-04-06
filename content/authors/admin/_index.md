@@ -48,10 +48,10 @@ education:
 skills:
   - name: Technical
     items:
-          - name: Python
+      - name: Java
         description: ''
-        percent: 80
-        icon: python
+        percent: 90
+        icon: java
         icon_pack: fab
       - name: Python
         description: ''
@@ -60,12 +60,12 @@ skills:
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
       - name: Software Engineering
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
 
