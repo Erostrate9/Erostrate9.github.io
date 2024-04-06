@@ -50,8 +50,8 @@ sections:
           company_url: 'https://www.inspurusainc.com/'
           company_logo: inspur
           location: Jinan, China
-          date_start: '2022-08'
-          date_end: '2023-02'
+          date_start: '2022-08-09'
+          date_end: '2023-02-10'
           description: |2-
             Software Research & Development Intern at Inspur Academy of Science and Technology:
             * Built Web App for IoT system using Java and Vue.js.
