@@ -66,28 +66,28 @@ skills:
       - name: React
         description: ''
         percent: 70
-        icon: devicon/react
-        icon_pack: fab
+        icon: react
+        icon_pack: devicon
       - name: JavaScript
         description: 'ES6'
         percent: 70
-        icon: devicon/javascript
-        icon_pack: fab
+        icon: javascript
+        icon_pack: devicon
       - name: Software Engineering
         description: 'Agile, Lean software development, Domain-driven design'
         percent: 90
-        icon: devicon/git
-        icon_pack: fas
+        icon: git
+        icon_pack: devicon
       - name: Android Development
         description: 'Android SDK, Kotlin, Java'
         percent: 60
-        icon: devicon/andriod
-        icon_pack: fas
+        icon: andriod
+        icon_pack: devicon
       - name: Deep Learning
         description: 'NLP, PyTorch, Numpy'
         percent: 70
-        icon: devicon/pytorch
-        icon_pack: fas
+        icon: pytorch
+        icon_pack: devicon
 
   - name: Hobbies
     color: '#eeac02'
@@ -143,5 +143,5 @@ social:
 highlight_name: true
 ---
 
-**Yuxuan (Eric) Sun** is a Master's student majoring in **Computer Science** at [University of Ottawa](https://service.scs.carleton.ca/ocics/about "OCICS"). He's a full-stack software engineer proficient in **Java, Spring Boot, MySQL and React** with one year of backend development work experience. His research interests include Software Engineering and Applied AI. Check out his [Résumé](https://erostrate9.github.io/uploads/resume.pdf "resume")
+**Yuxuan (Eric) Sun** is a Master's student majoring in **Computer Science** at [University of Ottawa](https://service.scs.carleton.ca/ocics/about "OCICS"). He's a full-stack software engineer proficient in **Java, Spring Boot, MySQL and React** with one year of backend development work experience. His research interests include Software Engineering and Applied AI. Check out his [Résumé](https://erostrate9.github.io/uploads/resume.pdf "resume").
 {style="text-align: justify;"}
