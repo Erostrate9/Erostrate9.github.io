@@ -143,5 +143,5 @@ social:
 highlight_name: true
 ---
 
-**Yuxuan (Eric) Sun** is a Master's student majoring in **Computer Science** at [University of Ottawa](https://service.scs.carleton.ca/ocics/about "OCICS"). He's a full-stack software engineer proficient in **Java, Spring Boot, MySQL and React** with one year of backend development work experience. His research interests include Software Engineering and Applied AI. Check out his [Résumé](https://erostrate9.github.io/uploads/resume.pdf resume)
+**Yuxuan (Eric) Sun** is a Master's student majoring in **Computer Science** at [University of Ottawa](https://service.scs.carleton.ca/ocics/about "OCICS"). He's a full-stack software engineer proficient in **Java, Spring Boot, MySQL and React** with one year of backend development work experience. His research interests include Software Engineering and Applied AI. Check out his [Résumé](https://erostrate9.github.io/uploads/resume.pdf "resume")
 {style="text-align: justify;"}
