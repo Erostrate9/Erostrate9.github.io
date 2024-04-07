@@ -67,26 +67,25 @@ skills:
         description: ''
         percent: 70
         icon: icon:devicon/react
-        # icon_pack: fab
+        icon_pack: fab
       - name: JavaScript
         description: 'ES6'
         percent: 70
-        icon: devicon/javascript
-        # icon_pack: custom
+        icon: icon:devicon/devicon-javascript-plain colored
       - name: Software Engineering
         description: 'Agile, Lean software development, Domain-driven design'
         percent: 90
-        icon: git
+        icon: icon:devicon/"devicon-git-plain colored"
         # icon_pack: fab
       - name: Android Development
         description: 'Android SDK, Kotlin, Java'
         percent: 60
-        icon: android
+        icon: icon:devicon/androidstudio-original
         # icon_pack: fab
       - name: Deep Learning
         description: 'NLP, PyTorch, Numpy'
         percent: 70
-        icon: pytorch
+        icon: icon:devicon/pytorch-original
         # icon_pack: fab
 
   - name: Hobbies
