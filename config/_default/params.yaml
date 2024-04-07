@@ -17,16 +17,16 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'University of Ottawa'
+    description: 'Personal website of Yuxuan Sun, Eric Sun.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'gMOA9C3r-z8agN-Zj14Ay5FUqlBY3zUG7wkIMhoNhzc'
     baidu: ''
 
 # Site header
