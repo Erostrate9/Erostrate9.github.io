@@ -66,11 +66,11 @@ skills:
       - name: React
         description: ''
         percent: 70
-        icon: icon:devicon/react
+        icon: react
       - name: JavaScript
         description: 'ES6'
         percent: 70
-        icon: icon:devicon/javascript
+        icon: devicon/javascript
       - name: Software Engineering
         description: 'Agile, Lean software development, Domain-driven design'
         percent: 90
