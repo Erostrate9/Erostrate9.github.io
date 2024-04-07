@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-04-06
 type: landing
 
 sections:
@@ -156,20 +156,20 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
@@ -181,7 +181,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-         🤝🏻Hi there! Feel free to reach me out! 
+         🤝🏻 Hi there! Feel free to reach me out! 
       # Contact (add or remove contact options as necessary)
       email: ericsun42@outlook.com
       # phone: 888 888 88 88
