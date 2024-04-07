@@ -71,18 +71,18 @@ skills:
       - name: JavaScript
         description: 'ES6'
         percent: 70
-        icon: javascript
-        icon_pack: custom
+        icon: js
+        icon_pack: fab
       - name: Software Engineering
         description: 'Agile, Lean software development, Domain-driven design'
         percent: 90
-        icon: git
-        icon_pack: custom
+        icon: git-alt
+        icon_pack: fab
       - name: Android Development
         description: 'Android SDK, Kotlin, Java'
         percent: 60
         icon: android
-        icon_pack: custom
+        icon_pack: fab
       - name: Deep Learning
         description: 'NLP, PyTorch, Numpy'
         percent: 70
