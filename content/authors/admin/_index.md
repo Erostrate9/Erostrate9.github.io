@@ -3,7 +3,7 @@
 title: Yuxuan (Eric) Sun
 
 # Name pronunciation (optional)
-name_pronunciation: Yu-Shooan Swen
+name_pronunciation: Ü-Shooan Swen
 
 # Full name (for SEO)
 first_name: Yuxuan
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's student & Software Engineer
+role: MCS student & Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,7 +49,7 @@ skills:
   - name: Technical
     items:
       - name: Java
-        description: 'Spring Boot'
+        description: 'Spring Boot, RabbitMQ, Redis, MyBatis'
         percent: 90
         icon: java
         icon_pack: fab
@@ -63,25 +63,30 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
+      - name: React
+        description: ''
+        percent: 70
+        icon: devicon/react
+        icon_pack: fab
       - name: JavaScript
         description: 'ES6'
         percent: 70
-        icon: javascript
+        icon: devicon/javascript
         icon_pack: fab
+      - name: Software Engineering
+        description: 'Agile, Lean software development, Domain-driven design'
+        percent: 90
+        icon: devicon/git
+        icon_pack: fas
       - name: Android Development
         description: 'Android SDK, Kotlin, Java'
         percent: 60
-        icon: andriod
+        icon: devicon/andriod
         icon_pack: fas
       - name: Deep Learning
         description: 'NLP, PyTorch, Numpy'
         percent: 70
-        icon: pytorch
-        icon_pack: fas
-      - name: Software Engineering
-        description: 'Agile, Lean software development, Domain-driven design'
-        percent: 90
-        icon: git
+        icon: devicon/pytorch
         icon_pack: fas
 
   - name: Hobbies
@@ -138,5 +143,5 @@ social:
 highlight_name: true
 ---
 
-Yuxuan (Eric) Sun is a Master's student majoring in computer science at [University of Ottawa](https://service.scs.carleton.ca/ocics/timetable "OCICS"). He's a full-stack software engineer proficient in Java, Spring Boot, MySQL and React. He has one year of backend development work experience in China. His research interests include Software Engineering and Applied AI. 
+**Yuxuan (Eric) Sun** is a Master's student majoring in **Computer Science** at [University of Ottawa](https://service.scs.carleton.ca/ocics/about "OCICS"). He's a full-stack software engineer proficient in **Java, Spring Boot, MySQL and React** with one year of backend development work experience. His research interests include Software Engineering and Applied AI. Check out his [Résumé](https://erostrate9.github.io/uploads/resume.pdf resume)
 {style="text-align: justify;"}

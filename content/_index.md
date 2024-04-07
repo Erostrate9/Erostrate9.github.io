@@ -46,7 +46,7 @@ sections:
             * Optimized MySQL, Impala and Hive database queries, resulting in 30% faster page loads.
             * Participated in software maintenance and DevOps, provided technical support for bank employees, and troubleshot system bugs.
         - title: Software Development Intern
-          company: Inspur Group ()
+          company: Inspur Group (Inspur Academy of Science and Technology)
           company_url: 'https://www.inspurusainc.com/'
           company_logo: inspur
           location: Jinan, China
@@ -145,17 +145,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -181,7 +181,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+         🤝🏻Hi there! Feel free to reach me out! 
       # Contact (add or remove contact options as necessary)
       email: ericsun42@outlook.com
       # phone: 888 888 88 88

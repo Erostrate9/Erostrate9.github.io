@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'A Transfer Learning Method for Covid-19 and Pneumonia Diagnosis Based on Chest Radiograph Classification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,11 +11,12 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Harbin Institute of Technology'
+  - 'Harbin Institute of Technology'
+  - 'Nanyang Technological University'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2023-03-30T00:00:00Z'
+doi: '10.1109/ICCRD56364.2023.10080197'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-12T00:00:00Z'
